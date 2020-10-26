@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: blueviolet;
+height: 100px;
+text-align: center;
+padding: 28px;
+}
+.header h1{
+    color: rgb(255, 255, 255);
+}
+.banner{
+    background-color: teal;
+    text-align: center;
+    height: 200px;
+    padding: 50px;
+}
+.banner h1{
+    color: thistle;
+    padding: 60px;
+}
+.wrapper{
+    overflow: hidden;
+}
+.left-block{
+    background-color: violet;
+    width: 50%;
+    height: 200px;
+    float: left;
+}
+.left-block h1{
+text-align: center;
+color: white;
+padding: 75px;
+}
+.right-Block{
+background-color: yellow;
+width: 50%;
+height: 200px;
+float: right;
+
+}
+.right-Block h1{
+text-align: center;
+padding: 75px;
+}
+.blank{
+    background-color: teal;
+    width: 100%;
+    height: 20px;
+}
+.footer{
+    background-color: teal;
+    height: 150px;
+}
+.footer h1{
+    text-align: center;
+    padding: 50px;
+}
